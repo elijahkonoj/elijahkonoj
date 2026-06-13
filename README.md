@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elijahkonoj
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning and working on full stack projects
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
